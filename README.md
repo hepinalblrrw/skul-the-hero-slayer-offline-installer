@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Guide 'Skul' on his quest to single-handedly take on the Imperial Army and rescue his King from captivity, in an action-packed rogue-lite 2D platformer for the ages.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.12+ |
+| **Processor** | Dual core from Intel or AMD at 2.8 GHz | Dual core from Intel or AMD at 2.8 GHz |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: Nvidia 450 GTS / Radeon HD 5750 or better / Rec: Nvidia GTX 460 / Radeon HD 7800 or better | Nvidia 450 GTS / Radeon HD 5750 or better |
+| **DirectX** | Min: Version 11 / Rec: Version 12 | Version 11 |
+| **Storage** | Min: 1 GB available space / Rec: 2 GB available space | 1 GB available space |
+| **OS *** | Windows 7+ | Windows 7+ |
+| **Additional Notes** | DirectX 9.1+ or OpenGL 3.2+ | MacBook, MacBook Pro or iMac 2012 or later |
 
 ---
 
